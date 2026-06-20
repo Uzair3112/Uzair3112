@@ -4,7 +4,7 @@
 
 <p><b>Data Science · Full-Stack Development · AI/ML</b></p>
 
-<p><i>Building software that turns data into real-world impact.<br/>Currently working on HomeServe — my Final Year Project at Punjab University.</i></p>
+<p><i>Building software that turns data into real-world impact.<br/>Currently working on my Final Year Project at Punjab University.</i></p>
 
 <br/>
 
@@ -69,15 +69,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🏠 HomeServe *(Final Year Project)*
-> Cross-platform on-demand home services booking app — plumbing, electrical, carpentry, painting, and more. Built for the Pakistani market with real-time booking and local payment gateways.
-
-`MERN` `React Native` `Socket.io` `Bull/Redis` `JazzCash` `EasyPaisa` `JWT` `Google Maps API`
 
 ---
 
