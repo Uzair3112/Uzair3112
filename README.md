@@ -70,19 +70,13 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
----
-
-### 🤖 FinSight AI *(NLP Course Project)*
-> AI-powered personal finance assistant targeting Pakistan's digital wallet market. Features OCR receipt scanning, a BERT-based transaction categorizer, semantic vector search, and a multilingual RAG chatbot (English + Roman Urdu).
-
-`FastAPI` `BERT` `FAISS` `LangChain` `Sentence Transformers` `OCR` `React`
 
 ---
 
 ### 💳 FinTech MERN Application
-> Secure financial platform with full authentication suite — JWT auth, refresh tokens, Google OAuth, two-factor authentication, and role-based access control.
+> AI-powered personal finance assistant targeting Pakistan's digital wallet market. Features OCR receipt scanning, a BERT-based transaction categorizer, semantic vector search, and a multilingual RAG chatbot.
 
-`MongoDB` `Express.js` `React` `Node.js` `JWT` `Google OAuth` `2FA`
+`MongoDB` `Express.js` `React` `Node.js` `JWT` `Google OAuth` `2FA` `FastAPI`
 
 ---
 
@@ -90,6 +84,13 @@
 > End-to-end ML pipeline for sentiment analysis on product reviews — EDA, preprocessing, predictive modeling, and Streamlit deployment.
 
 `Python` `Scikit-learn` `Pandas` `Matplotlib` `Streamlit`
+
+---
+
+### 💼 Student Management System
+> complete management solution designed to streamline student-related operations through an intuitive and efficient interface.
+
+`Python` `Pandas` `Sqlite` `Tkinter`
 
 ---
 
