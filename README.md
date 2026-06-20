@@ -23,7 +23,7 @@
 |---|---|
 | 🎓 **Education** | BS Data Science, Punjab University · Session 2023–2027 · CGPA 3.49 |
 | 💼 **Experience** | MERN + RAG + GenAI Intern @ Metadots, Lahore · Aug–Oct 2025 |
-| 🚀 **Currently Building** | HomeServe — cross-platform on-demand home services app (FYP) |
+| 🚀 **Currently Building** | Final Year Project(FYP) |
 | 📍 **Location** | Lahore, Pakistan · Open to remote collaboration |
 
 ---
