@@ -32,7 +32,7 @@
 
 <div align="center">
 
-| 500+ | 3.49 | 4+ |
+| 500+ | 3.49 | 5+ |
 |:---:|:---:|:---:|
 | LeetCode problems solved | CGPA | Major projects shipped |
 
@@ -45,12 +45,14 @@
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
@@ -58,6 +60,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -70,13 +73,24 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-
 ---
 
 ### 💳 FinTech MERN Application
 > AI-powered personal finance assistant targeting Pakistan's digital wallet market. Features OCR receipt scanning, a BERT-based transaction categorizer, semantic vector search, and a multilingual RAG chatbot.
 
 `MongoDB` `Express.js` `React` `Node.js` `JWT` `Google OAuth` `2FA` `FastAPI`
+
+---
+
+### 🏠 HomeServe
+> On-demand home services marketplace connecting homeowners with local service providers — plumbers, electricians, HVAC technicians, cleaners, painters, carpenters, pest control, and gardeners. Built as a dual-role (customer/provider) Flutter app with real-time location-based discovery, a full booking lifecycle, and a 7-step provider onboarding wizard with an earnings dashboard.
+
+- 📍 Map + list-based nearby provider discovery with geo queries
+- 📅 End-to-end booking lifecycle: `requested → confirmed → in_progress → awaiting_confirmation → completed`
+- 📊 Provider dashboard with earnings charts, booking stats, and review summaries
+- 🔔 Real-time push notifications, ratings & reviews, light/dark theme, and localization support
+
+`Flutter` `Dart` `Riverpod` `GoRouter` `Firebase` `Cloud Firestore` `Firebase Auth` `Cloud Functions` `Google Maps` `GeoFlutterFire` `Freezed` `Hive`
 
 ---
 
@@ -103,20 +117,7 @@
 | ⚡ | **500+ LeetCode Problems** solved across all difficulty levels |
 | 🌍 | **ICPC Participant** — International Collegiate Programming Contest |
 
----
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Uzair3112&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair3112&layout=compact&hide_border=true&theme=default" height="160" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Uzair3112&hide_border=true&theme=default" />
-
-</div>
 
 ---
 
