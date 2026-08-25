@@ -32,7 +32,7 @@
 
 <div align="center">
 
-| 500+ | 3.49 | 5+ |
+| 500+ | 3.49 | 6+ |
 |:---:|:---:|:---:|
 | LeetCode problems solved | CGPA | Major projects shipped |
 
@@ -64,6 +64,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **AI / ML**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -72,6 +73,19 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+---
+
+### 🔍 File Analyzer
+> A cross-platform desktop application for local storage and codebase analysis. Scans any folder to count lines of code across every file, automatically detects duplicate files, and visualizes storage breakdown through interactive charts — all running 100% locally with zero cloud dependency.
+
+- 🚀 Real-time scan progress tracking with cancellation support
+- 🧬 Automatic duplicate file detection engine
+- 📊 Interactive data visualizations of scan results
+- 🔒 Fully offline — files never leave the user's machine
+- 🗄️ Persistent scan history with async database layer and versioned migrations
+
+`Tauri` `Rust` `React` `TypeScript` `FastAPI` `Python` `PostgreSQL` `SQLAlchemy` `Alembic` `Recharts`
 
 ---
 
